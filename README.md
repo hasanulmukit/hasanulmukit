@@ -9,6 +9,8 @@
 - ✍️ I also enjoy **Content Writing**, creating engaging and meaningful content that connects with audiences.  
 - 🌐 Currently exploring **full-stack development** and enhancing my skills in **JavaScript**, **Node.js**, **React.js**, and **Python**.  
 - 📘 I'm a computer engineering graduate and a firm believer in continuous learning.
+- 🌍 Fluent in three languages and learning a new one!  
+
 
 ---
 
@@ -27,38 +29,47 @@
 ---
 
 ## 💻 Software Expertise  
-| Design Tools   | Development Tools     | Productivity Tools  |  
-| -------------- | --------------------- | ------------------- |  
-| Figma          | VS Code               | Microsoft Word      |  
-| Adobe XD       | Node.js               | Microsoft Excel     |  
-| Photoshop      | WordPress             | Microsoft PowerPoint|  
-| AutoCAD        | Android Studio        | Origin              |  
+| **Design Tools**   | **Development Tools** | **Productivity Tools**  |  
+| ------------------- | --------------------- | ----------------------- |  
+| Figma              | VS Code               | Microsoft Word          |  
+| Adobe XD           | Node.js               | Microsoft Excel         |  
+| Photoshop          | WordPress             | Microsoft PowerPoint    |  
+| AutoCAD            | Android Studio        | Origin                  |  
+| Lucidchart         |                       | LaTeX                   |  
 
 ---
 
 ## 📈 GitHub Stats  
-![Hasanul Mukit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide=issues&count_private=true&include_all_commits=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Hasanul Mukit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasanulmukit&show_icons=true&theme=radical&hide=issues&count_private=true&include_all_commits=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanulmukit&layout=compact&theme=radical)
 
 ---
 
 ## 🌱 My Current Projects  
-1. **Spam Email Classifier**: Using machine learning to classify spam emails.  
+1. **Network Optimization**: AI Driven Energy Optimization for Public Sector Networks.  
 
 ---
 
 ## 🤝 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-link](https://www.linkedin.com/in/hasanul-mukit-b7a00117b/))  
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/hasanulmukit)  
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](your-twitter-link)  
-[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat&logo=instagram&logoColor=white)](your-instagram-link)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=LeetCode&logoColor=white)]([your-leetcode-link](https://leetcode.com/u/hmukit/))  
+[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&logo=HackerRank&logoColor=white)]([your-hackerrank-link](https://www.hackerrank.com/profile/hmukit_gub))  
+
+---
+
+## 🏆 Achievements  
+- 🏅 **500+ problems solved** on **LeetCode** and **HackerRank** combined.
+- - 🏆 **Badges Earned**:  
+  - **LeetCode**: <img src="https://img.shields.io/badge/Gold-5-yellow?style=flat-square" alt="Gold"> <img src="https://img.shields.io/badge/Silver-10-gray?style=flat-square" alt="Silver">  
+  - **HackerRank**: <img src="https://img.shields.io/badge/Problem%20Solving-Gold-yellow?style=flat-square" alt="HackerRank Gold"> <img src="https://img.shields.io/badge/Python-Gold-yellow?style=flat-square" alt="HackerRank Python Badge">   
+- 📝 Successfully delivered **50+ freelance projects** as a **Web Developer**, **Content Writer** and **UI/UX Designer**.
 
 ---
 
 ## 🔥 Fun Facts  
 - 🐾 I have a baby cat and love spending time with her!  
 - 🌱 Passionate about sustainable networking and AI.  
-- 🌍 Fluent in three languages and learning a new one!  
 
 ---
 
