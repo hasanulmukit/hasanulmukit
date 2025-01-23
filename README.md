@@ -50,18 +50,19 @@
 
 ---
 
-## 🤝 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-link](https://www.linkedin.com/in/hasanul-mukit-b7a00117b/))  
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/hasanulmukit)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=LeetCode&logoColor=white)]([your-leetcode-link](https://leetcode.com/u/hmukit/))  
-[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&logo=HackerRank&logoColor=white)]([your-hackerrank-link](https://www.hackerrank.com/profile/hmukit_gub))  
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/hasanul-mukit-b7a00117b/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/hasanulmukit"><img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://leetcode.com/u/hmukit/"><img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"></a>
+  <a href="https://www.hackerrank.com/profile/hmukit_gub"><img src="https://img.shields.io/badge/-HackerRank-green?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
+</p>
 
 ---
 
 ## 🏆 Achievements  
 - 🏅 **500+ problems solved** on **LeetCode** and **HackerRank** combined.
 - - 🏆 **Badges Earned**:  
-  - **LeetCode**: <img src="https://img.shields.io/badge/Gold-5-yellow?style=flat-square" alt="Gold"> <img src="https://img.shields.io/badge/Silver-10-gray?style=flat-square" alt="Silver">  
   - **HackerRank**: <img src="https://img.shields.io/badge/Problem%20Solving-Gold-yellow?style=flat-square" alt="HackerRank Gold"> <img src="https://img.shields.io/badge/Python-Gold-yellow?style=flat-square" alt="HackerRank Python Badge">   
 - 📝 Successfully delivered **50+ freelance projects** as a **Web Developer**, **Content Writer** and **UI/UX Designer**.
 
