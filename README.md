@@ -63,7 +63,7 @@
 ## 🏆 Achievements  
 - 🏅 **500+ problems solved** on **LeetCode** and **HackerRank** combined.
 - - 🏆 **Badges Earned**:  
-  - **HackerRank**: <img src="https://img.shields.io/badge/Problem%20Solving-Gold-yellow?style=flat-square" alt="HackerRank Gold"> <img src="https://img.shields.io/badge/Python-Gold-yellow?style=flat-square" alt="HackerRank Python Badge">   
+  - **HackerRank**: <img src="https://img.shields.io/badge/Problem%20Solving-Gold-yellow?style=flat-square" alt="HackerRank Gold"> <img src="https://img.shields.io/badge/Python-Gold-yellow?style=flat-square" alt="HackerRank Python Badge"> <img src="https://img.shields.io/badge/C-Gold-yellow?style=flat-square" alt="HackerRank C Badge"> 
 - 📝 Successfully delivered **50+ freelance projects** as a **Web Developer**, **Content Writer** and **UI/UX Designer**.
 
 ---
