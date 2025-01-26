@@ -46,7 +46,7 @@
 ---
 
 ## 🌱 My Current Projects  
-1. **Network Optimization**: AI Driven Energy Optimization for Public Sector Networks.  
+1. **EcoSphereAI**: AI Driven Energy Optimization for Public Sector Networks.  
 
 ---
 
