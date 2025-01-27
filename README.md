@@ -5,11 +5,11 @@
 
 ## 🌟 About Me  
 - 🧠 I'm an aspiring AI/ML Researcher with a strong foundation in machine learning algorithms.
-- 👨‍💻 As a Web Developer, I'm passionate about building sleek, user-friendly interfaces and currently exploring full-stack development with skills in JavaScript, Node.js, React.js, and Python.
-- 🎨 As a UI/UX Designer, I blend creativity with technical know-how to craft intuitive digital experiences.
-- ✍️ I also enjoy Content Writing, creating engaging and meaningful content that connects with audiences.
-- 📘 I'm a computer engineering graduate and a firm believer in continuous learning.
-- 🌍 I'm trilingual and currently learning a new one!
+- 👨‍💻 My passion for web development drives me to craft sleek, user-friendly interfaces while honing my expertise in full-stack technologies like JavaScript, Node.js, React.js, and Python.
+- 🎨 Combining creativity and technical skills, I design intuitive digital experiences as a UI/UX Designer.
+- ✍️ Writing engaging and impactful content is another avenue where I channel my creativity to connect with diverse audiences.
+- 📘 As a computer engineering graduate, I thrive on the philosophy of continuous learning and growth.
+- 🌍 Being trilingual, I embrace the challenge of learning a fourth language to broaden my horizons further.
 
 ---
 
