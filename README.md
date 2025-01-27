@@ -4,14 +4,12 @@
 ---
 
 ## 🌟 About Me  
-- 👨‍💻 I'm a versatile **Web Developer** passionate about building sleek, user-friendly interfaces.
-- 🧠 Currently working towards becoming an **AI/ML Researcher** with a strong foundation in machine learning algorithms.
-- 🎨 As a **UI/UX Designer**, I blend creativity with technical know-how to craft intuitive digital experiences.  
-- ✍️ I also enjoy **Content Writing**, creating engaging and meaningful content that connects with audiences.  
-- 🌐 Currently exploring **full-stack development** and enhancing my skills in **JavaScript**, **Node.js**, **React.js**, and **Python**.  
+- 🧠 I'm an aspiring AI/ML Researcher with a strong foundation in machine learning algorithms.
+- 👨‍💻 As a Web Developer, I'm passionate about building sleek, user-friendly interfaces and currently exploring full-stack development with skills in JavaScript, Node.js, React.js, and Python.
+- 🎨 As a UI/UX Designer, I blend creativity with technical know-how to craft intuitive digital experiences.
+- ✍️ I also enjoy Content Writing, creating engaging and meaningful content that connects with audiences.
 - 📘 I'm a computer engineering graduate and a firm believer in continuous learning.
-- 🌍 Fluent in three languages and learning a new one!  
-
+- 🌍 I'm trilingual and currently learning a new one!
 
 ---
 
@@ -70,8 +68,10 @@
 ---
 
 ## 🔥 Fun Facts  
-- 🐾 I have a baby cat and love spending time with her!  
-- 🌱 Passionate about sustainable networking and AI.  
+- 🗣️ I can speak fluently in English, Bangla, Hindi and currently learning Korean.
+- 🧩 I can solve a Rubik's Cube in 2 minutes.
+- ✈️ My dream vacation places are Oslo, Norway and Bali, Indonesia.
+- 🐾 I have a cat and spending time with her is one of my favorite activity!  
 
 ---
 
