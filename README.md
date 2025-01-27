@@ -1,10 +1,11 @@
 # 👋 Hello, I'm Hasanul Mukit!  
-**Web Developer | UI/UX Designer | Content Writer | Lifelong Learner**
+**Web Developer | UI/UX Designer | Content Writer | AI/ML Researcher**
 
 ---
 
 ## 🌟 About Me  
-- 👨‍💻 I'm a versatile **Web Developer** passionate about building sleek, user-friendly interfaces.  
+- 👨‍💻 I'm a versatile **Web Developer** passionate about building sleek, user-friendly interfaces.
+- 🧠 Currently working towards becoming an **AI/ML Researcher** with a strong foundation in machine learning algorithms.
 - 🎨 As a **UI/UX Designer**, I blend creativity with technical know-how to craft intuitive digital experiences.  
 - ✍️ I also enjoy **Content Writing**, creating engaging and meaningful content that connects with audiences.  
 - 🌐 Currently exploring **full-stack development** and enhancing my skills in **JavaScript**, **Node.js**, **React.js**, and **Python**.  
