@@ -40,7 +40,7 @@
 
 ## 📈 GitHub Stats  
 ![hasanulmukit's Stats](https://github-readme-stats.vercel.app/api?username=hasanulmukit&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=false)
-![hasanulmukit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasanulmukit&theme=ayu-mirage&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hasanulmukit)](https://git.io/streak-stats)
 ![hasanulmukit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanulmukit&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
 
 ---
