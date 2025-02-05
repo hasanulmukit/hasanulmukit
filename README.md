@@ -46,7 +46,8 @@
 ---
 
 ## 🌱 My Current Projects  
-1. **EcoSphereAI**: AI Driven Energy Optimization for Public Sector Networks.  
+1. **EcoSphereAI**: AI Driven Energy Optimization for Public Sector Networks.
+2. **DevSuit**: A all in one dev manager.
 
 ---
 
