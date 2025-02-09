@@ -1,9 +1,20 @@
-# 👋 Hello, I'm Hasanul Mukit!  
-**Web Developer | UI/UX Designer | Content Writer | AI/ML Researcher**
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Hasanul+Mukit;Nice+to+meet+you!&center=true&size=30&color=021526&font=Roboto+Mono">
+  </a>
+</h1>
 
 ---
 
-## 🌟 About Me  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Web%20Developer-021526?style=for-the-badge" alt="Web Developer">
+  <img src="https://img.shields.io/badge/-AI%2FML%20Researcher%20%26%20Developer-021526?style=for-the-badge" alt="AI/ML Researcher & Developer">
+</p>
+
+---
+
+## 🌟 About Me
+
 - 🧠 I'm an aspiring AI/ML Researcher with a strong foundation in machine learning algorithms.
 - 👨‍💻 My passion for web development drives me to craft sleek, user-friendly interfaces while honing my expertise in full-stack technologies like JavaScript, Node.js, React.js, and Python.
 - 🎨 Combining creativity and technical skills, I design intuitive digital experiences as a UI/UX Designer.
@@ -13,35 +24,80 @@
 
 ---
 
-## 🛠️ Skills & Expertise  
-### **Web Development**  
-- HTML | CSS | Tailwind CSS | JavaScript | React.js | Node.js  
-### **Databases**  
-- MongoDB | MySQL  
-### **Programming Languages**  
-- Python | Java  
-### **Design Skills**  
-- UI/UX Design (Proficient with Figma and Adobe XD)  
-### **Other Skills**  
-- Content Writing | Problem Solving | Communication  
+## 🛠️ Skills & Expertise
+
+### **Web Development**
+
+<p align="center">
+  <a href="#"><img src="logo/react.png" alt="React.js" title="React.js" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="logo/nodejs.png" alt="Node.js" title="Node.js" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="logo/nextjs.svg" alt="Next.js" title="Next.js" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="logo/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="logo/mongodb.png" alt="MongoDB" title="MongoDB" width="40" height="40" /></a>
+</p>
+
+
+
+### **Research & Development**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Artificial%20Intelligence-EEDF7A?style=for-the-badge" alt="Artificial Intelligence">
+  <img src="https://img.shields.io/badge/-Machine%20Learning-EEDF7A?style=for-the-badge" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/-Human%20Computer%20Interaction-EEDF7A?style=for-the-badge" alt="Human Computer interaction">
+  <img src="https://img.shields.io/badge/-Bioinformatics-EEDF7A?style=for-the-badge" alt="Bioinformatics">
+</p>
+
+### **Others**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Content%20Writing-EEDF7A?style=for-the-badge" alt="Artificial Intelligence">
+  <img src="https://img.shields.io/badge/-UI%2FUX%20Design-EEDF7A?style=for-the-badge" alt="UI/UX Design">
+</p>
 
 ---
 
-## 💻 Software Expertise  
-| **Design Tools**   | **Development Tools** | **Productivity Tools**  |  
-| ------------------- | --------------------- | ----------------------- |  
-| Figma              | VS Code               | Microsoft Word          |  
-| Adobe XD           | Node.js               | Microsoft Excel         |  
-| Photoshop          | WordPress             | Microsoft PowerPoint    |  
-| AutoCAD            | Android Studio        | Origin                  |  
-| Lucidchart         |                       | LaTeX                   |  
+## 💻 Tech Expertise 
 
+### **Programming Languages**
+
+<p align="center">
+  <a href="#"><img src="logo/python.png" alt="Python" title="Python" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="logo/javascript.png" alt="Javascript" title="Javascript" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="logo/java.png" alt="Java" title="Java" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="logo/c.png" alt="C" title="C" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="logo/mysql.png" alt="SQL" title="SQL" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;
+</p>
+
+### **Design & Development Tools**
+
+<p align="center">
+  <a href="#"><img src="logo/figma.png" alt="Figma" title="Figma" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="logo/xd.png" alt="Adobe XD" title="Adobe XD" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="logo/photoshop.png" alt="Adobe Photoshop" title="Adobe Photoshop" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="logo/autocad.png" alt="AutoCAD" title="AutoCAD" width="80" height="30" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="logo/lucidchart.png" alt="Lucidchart" title="Lucidchart" width="40" height="40" /></a>
+  <a href="#"><img src="logo/vscode.png" alt="VS Code" title="VS Code" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="logo/wordpress.png" alt="Wordpress" title="Wordpress" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="logo/android_studio.png" alt="Android Studio" title="Android Studio" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="logo/git.png" alt="Git" title="Git" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="logo/streamlit.png" alt="Streamlit" title="Streamlit" width="70" height="40" /></a>&nbsp;&nbsp;&nbsp;
+</p>
+
+### **Productivity Tools**
+
+<p align="center">
+  <a href="#"><img src="logo/word.png" alt="MS Word" title="MS Word" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="logo/excel.png" alt="MS Excel" title="MS Excel" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="logo/powerpoint.png" alt="MS Powerpoint" title="MS Powerpoint" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="logo/origin.png" alt="Origin" title="Origin" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="logo/latex.png" alt="Latex" title="Latex" width="70" height="30" /></a>
+</p>
 ---
 
 ## 📈 GitHub Stats  
 ![hasanulmukit's Stats](https://github-readme-stats.vercel.app/api?username=hasanulmukit&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=false)
-[![GitHub Streak](https://github-readme-streak-stats-ten-delta.vercel.app?user=hasanulmukit&theme=dark)](https://git.io/streak-stats)
 ![hasanulmukit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanulmukit&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats-ten-delta.vercel.app?user=hasanulmukit&theme=dark)](https://git.io/streak-stats)
 
 ---
 
