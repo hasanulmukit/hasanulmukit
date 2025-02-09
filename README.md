@@ -95,9 +95,11 @@
 ---
 
 ## 📈 GitHub Stats  
+<p align="center">
 ![hasanulmukit's Stats](https://github-readme-stats.vercel.app/api?username=hasanulmukit&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=false)
 ![hasanulmukit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanulmukit&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
 [![GitHub Streak](https://github-readme-streak-stats-ten-delta.vercel.app?user=hasanulmukit&theme=dark)](https://git.io/streak-stats)
+</p>
 
 ---
 
