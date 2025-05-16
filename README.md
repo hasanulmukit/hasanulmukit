@@ -7,8 +7,8 @@
 ---
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-AI%20Engineer-021526?style=for-the-badge" alt="AI Engineer">
   <img src="https://img.shields.io/badge/-Web%20Developer-021526?style=for-the-badge" alt="Web Developer">
-  <img src="https://img.shields.io/badge/-AI%2FML%20Researcher%20%26%20Developer-021526?style=for-the-badge" alt="AI/ML Researcher & Developer">
 </p>
 
 ---
