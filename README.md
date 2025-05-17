@@ -110,8 +110,7 @@
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/hasanul-mukit"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/hasanulmukit"><img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://dev.to/hasanulmukit"><img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"></a>
+  <a href="https://dev.to/hasanulmukit"><img src="https://img.shields.io/badge/-Dev.to-021526?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"></a>
   <a href="https://leetcode.com/u/hmukit/"><img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"></a>
   <a href="https://www.hackerrank.com/profile/hmukit_gub"><img src="https://img.shields.io/badge/-HackerRank-green?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
 </p>
