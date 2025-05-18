@@ -102,8 +102,7 @@
 
 ## 🌱 My Current Projects  
 1. **EcoSphereAI**: AI Driven Energy Optimization for Public Sector Networks.
-2. **DevSuit**: A all in one dev manager.
-3. **BestHealth**: AI powered mental health & wellness app.
+2. **BestHealth**: AI powered mental health & wellness app.
 
 ---
 
