@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-AI%20Engineer-021526?style=for-the-badge" alt="AI Engineer">
+  <img src="https://img.shields.io/badge/-AI%20Researcher%20%2%20Developer-021526?style=for-the-badge" alt="AI Researcher & Developer">
   <img src="https://img.shields.io/badge/-Web%20Developer-021526?style=for-the-badge" alt="Web Developer">
 </p>
 
